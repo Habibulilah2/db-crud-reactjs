@@ -1,0 +1,109 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "nama": "afif",
+          "alamat": "Pekalongan",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 2,
+          "nama": "bayu",
+          "alamat": "Jepara",
+          "umur": 21,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 3,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 4,
+          "nama": "Joko",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 5,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 6,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 7,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 8,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 9,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 10,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 11,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 12,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 13,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 14,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        },
+        {
+          "id": 15,
+          "nama": "hendro",
+          "alamat": "Jakarta",
+          "umur": 24,
+          "nohp": "0888231232132"
+        }
+      ]
+}
